@@ -1,15 +1,13 @@
-# AI Job Recommender with Chatbot
+AI Job Recommender with Chatbot
 
-## 📌 Project Overview
+📌 Project Overview
 
 AI Job Recommender is a web application that analyzes a user's resume and recommends suitable jobs based on the skills found in the resume.  
 It also includes a simple AI chatbot that helps guide users while searching for jobs.
 
 The system extracts skills from the resume and compares them with available job roles to provide the best matching opportunities.
 
----
-
-## 🚀 Features
+🚀 Features
 
 - Upload Resume (PDF)
 - Skill extraction from resume
@@ -20,9 +18,7 @@ The system extracts skills from the resume and compares them with available job 
 - Clean UI with gradient background
 - Responsive layout
 
----
-
-## 🛠 Technologies Used
+ 🛠 Technologies Used
 
 - Python
 - Flask
@@ -31,11 +27,7 @@ The system extracts skills from the resume and compares them with available job 
 - JavaScript
 - NLP (for resume skill matching)
 
----
-
-## 📂 Project Structure
-
-```
+ Project Structure
 AI_JOB_RECOMMENDER/
 │
 ├── app.py
@@ -53,60 +45,36 @@ AI_JOB_RECOMMENDER/
 │   └── jobs.csv
 │
 └── README.md
-```
 
----
-
-## ⚙️ Installation Steps
-
-### Step 1: Install Python
-
+ Installation Steps
+Step 1: Install Python
 Download and install Python from  
 https://www.python.org/
 
----
-
-### Step 2: Install Required Libraries
-
+Step 2: Install Required Libraries
 Open terminal or command prompt and run:
 
-```
 pip install flask pandas scikit-learn
-```
 
----
-
-### Step 3: Run the Project
+ Step 3: Run the Project
 
 Navigate to the project folder and run:
 
-```
 python app.py
-```
-
----
-
-### Step 4: Open in Browser
+Step 4: Open in Browser
 
 Open your browser and go to:
 
-```
 http://127.0.0.1:5000
-```
 
----
-
-## 📊 How It Works
+📊 How It Works
 
 1. User uploads resume
 2. System extracts skills
 3. Skills are compared with job dataset
 4. Matching score is calculated
 5. Best jobs are displayed
-
----
-
-## 🔮 Future Improvements
+🔮 Future Improvements
 
 - LinkedIn job integration
 - Real-time job scraping
