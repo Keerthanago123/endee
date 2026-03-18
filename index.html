@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>AI Job Recommendation</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body id="body">
+
+<div class="topbar">
+<button onclick="toggleTheme()">🌙 / ☀️</button>
+<button onclick="toggleChat()">🤖</button>
+</div>
+
+<div class="container">
+
+<h1>AI Job Recommendation System</h1>
+
+<input type="file" id="resume">
+<button onclick="uploadResume()">Find Jobs</button>
+
+<div id="jobs"></div>
+
+</div>
+
+<div class="chatbox" id="chatbox">
+
+<div class="chat-header">
+<img src="/static/bot.png" width="30"> AI Assistant
+<button onclick="toggleChat()">X</button>
+</div>
+
+<div id="chat-messages"></div>
+
+<input id="chat-input" placeholder="Ask something...">
+<button onclick="sendChat()">Send</button>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>

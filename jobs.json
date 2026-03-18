@@ -1,0 +1,602 @@
+[
+  {
+    "role": "Data Scientist",
+    "company": "Apple",
+    "url": "https://jobs.apple.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Amazon",
+    "url": "https://www.amazon.jobs",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Amazon",
+    "url": "https://www.amazon.jobs",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Amazon",
+    "url": "https://www.amazon.jobs",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Amazon",
+    "url": "https://www.amazon.jobs",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Apple",
+    "url": "https://jobs.apple.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Apple",
+    "url": "https://jobs.apple.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Tesla",
+    "url": "https://www.tesla.com/careers",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Apple",
+    "url": "https://jobs.apple.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Apple",
+    "url": "https://jobs.apple.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Apple",
+    "url": "https://jobs.apple.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Amazon",
+    "url": "https://www.amazon.jobs",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Tesla",
+    "url": "https://www.tesla.com/careers",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Apple",
+    "url": "https://jobs.apple.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Tesla",
+    "url": "https://www.tesla.com/careers",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Tesla",
+    "url": "https://www.tesla.com/careers",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Apple",
+    "url": "https://jobs.apple.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Apple",
+    "url": "https://jobs.apple.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Tesla",
+    "url": "https://www.tesla.com/careers",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Meta",
+    "url": "https://www.metacareers.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Amazon",
+    "url": "https://www.amazon.jobs",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Adobe",
+    "url": "https://careers.adobe.com",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Tesla",
+    "url": "https://www.tesla.com/careers",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "NLP Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "opencv image processing deep learning computer vision"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "IBM",
+    "url": "https://www.ibm.com/careers",
+    "skills": "data analysis python pandas numpy statistics"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Google",
+    "url": "https://careers.google.com",
+    "skills": "machine learning deployment docker kubernetes sklearn"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "natural language processing transformers bert python"
+  },
+  {
+    "role": "AI Engineer",
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  },
+  {
+    "role": "ML Engineer",
+    "company": "Intel",
+    "url": "https://jobs.intel.com",
+    "skills": "python machine learning deep learning tensorflow pytorch"
+  }
+]
